@@ -35,9 +35,7 @@ I'm a Python developer focused on building Telegram bots and backend automation 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruslan-Isaev&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslan-Isaev&layout=compact&theme=tokyonight)
+![Metrics](https://metrics.lecoq.io/ruslan-isaev?template=classic&config.timezone=Europe%2FMoscow)
 
 ---
 
