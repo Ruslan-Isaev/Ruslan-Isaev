@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Ruslan
 
-<!--
-**Ruslan-Isaev/Ruslan-Isaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer focused on building Telegram bots and backend automation tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About me
+
+- 🐍 Python developer
+- 🌐 Interested in backend development and automation
+- 📦 Experimenting with deployment (VDS, Docker, Nginx)
+
+---
+
+## 🚀 What I'm working on
+
+- Telegram bot development
+- Improving code architecture and clean code practices
+- Learning deeper backend concepts and system administration
+- Practicing OOP and software design
+
+---
+
+## 🧰 Tech Stack
+
+**Main technologies:**
+- Python
+- aiogram
+- Telethon
+- SQLite / PostgreSQL
+- Docker
+- Nginx
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ruslan-Isaev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslan-Isaev&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- Telegram: @logfour
+- Email: ruskakolbasa@xmail.ru
+- Website: https://ruisvip.ru
